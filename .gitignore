@@ -1,0 +1,74 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+EXmain.py
+
+
+# Virtual environments
+venv/
+.venv/
+.env/
+.env.*
+!.env.example
+.env
+env.yaml
+
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+logs/
+
+# ----------------------------
+# IDE / Editor
+# ----------------------------
+.idea/
+.vscode/
+*.iml
+
+# ----------------------------
+# OS files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Runtime Generated Files
+# ----------------------------
+*.mp4
+*.mp3
+*.m4a
+*.srt
+*.jpg
+*.jpeg
+*.png
+
+trimmed_*.*
+downloaded_*.*
+final_*.*
+merged_*.*
+compressed_*.*
+output_*.*
+OUT.mp4
+
+# ----------------------------
+# Local Data Files
+# ----------------------------
+posts.csv
+errors.csv
+post_times.csv
+ctoken.pickle
+token.pickle
+*.pickle
+Montserrat-Regular.ttf
+#
