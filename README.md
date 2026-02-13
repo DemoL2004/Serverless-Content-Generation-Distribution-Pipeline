@@ -142,28 +142,17 @@ Logging to Google Cloud Storage
 ## Project Structure
 
 services/
-
-  reddit_service.py
-
-  tts_service.py
-  
-  video_service.py
-  
-  audio_service.py
-  
-  youtube_service.py
-  
-  storage_service.py
-
-
+    reddit_service.py
+    tts_service.py
+    video_service.py
+    audio_service.py
+    youtube_service.py
+    storage_service.py
+    
 utils/
-
-  logging_utils.py
-  
-  job_control.py
-  
-  logger.py
-
+    logging_utils.py
+    job_control.py  
+    logger.py
 
 config.py
 
